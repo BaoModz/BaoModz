@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello all, I am <a href="https://www.chat.zalo.me/0942990506/">BaoModz</a> 😃️</h1>
-  <p align="center">I have no talent. Only a little knowledge of <a href="https://www.gameguardian.net/">LuaGG.</a> <a href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg"><i>Visit my Youtube channel</i></a><span> 👉🏽️</span>
+  <p align="center">I have no talent. Only a little knowledge of <a href="https://www.lua.org">Lua.</a> <a href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg"><i>Visit my Youtube channel</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/baomodz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baomodz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baomodz&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
