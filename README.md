@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Hello all, I am <a href="https://www.chat.zalo.me/0942990506/"><i>BaoModz</i></a> 😃️</h1>
-  <p align="center">I have no talent. Only a little knowledge of <a href="https://www.gameguardian.net/">LuaGG</a> <a href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg"><i>Visit my Youtube channel</i></a><span> 👉🏽️</span>
+  <h1 align="center">Hello all, I am <a href="https://www.chat.zalo.me/0942990506/">BaoModz</a> 😃️</h1>
+  <p align="center">I have no talent. Only a little knowledge of <a href="https://www.gameguardian.net/">LuaGG.</a> <a href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg"><i>Visit my Youtube channel</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCh1AnWs-rZxXysRRuDBTAeg" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
